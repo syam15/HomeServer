@@ -15,4 +15,3 @@ Bagi yang belum mempunyai iso dan juga virtualbox bisa di dapatkan disini :
 
 ## Tata cara instalasi
 ### installasi docker
-![Docker] (docker_installation.md)
