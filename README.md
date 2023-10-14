@@ -13,5 +13,6 @@ Bagi yang belum mempunyai iso dan juga virtualbox bisa di dapatkan disini :
 - https://mirror.unpad.ac.id/iso/ubuntu/20.04/
 - https://kartolo.sby.datautama.net.id/ubuntu-cd/20.04/
 
-## Tata cara instalasi
-### installasi docker
+## Alur installasi
+- membuat VM ubuntu server dengan virtualbox
+- 
