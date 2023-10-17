@@ -14,5 +14,7 @@ Bagi yang belum mempunyai iso dan juga virtualbox bisa di dapatkan disini :
 - https://kartolo.sby.datautama.net.id/ubuntu-cd/20.04/
 
 ## Alur installasi
-- membuat VM ubuntu server dengan virtualbox
-- 
+- Membuat VM ubuntu server dengan virtualbox
+- Installasi Nginx Untuk kebutuhan deploy
+- Installasi docker sebagai
+- Install owncloud dengan docker-compose
