@@ -27,7 +27,11 @@ HTTP_PORT=8080</code>
 
 ![dua](img/owncloud/2.jpg)
 
-
 ### download owncloud yml file untuk docker-compose:
+Download owncloud
 
 <code>wget https://raw.githubusercontent.com/owncloud/docs-server/master/modules/admin_manual/examples/installation/docker/docker-compose.yml</code>
+
+![tiga](img/owncloud/3.jpg)
+
+###
