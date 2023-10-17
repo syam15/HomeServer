@@ -8,6 +8,7 @@ cara membuatnya adalah
 <code>mkdir ~/owncloud</code>
 cara masuk ke direktori
 <code>cd ~/owncloud</code>
+
 ![satu](img/owncloud/1.jpg)
 
 
