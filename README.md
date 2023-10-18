@@ -1,4 +1,4 @@
-# Membangun Home Server dengan ubuntu server 20.04
+# Membangun Home Server dengan ubuntu server
 ## Apa itu Home Server?
 Home Server ditujukan sebagai solusi untuk rumahan dengan banyak komputer PC yang terkoneksi untuk menawarkan fitur file sharing, backup otomatis, dan juga akses secara jarak jauh.
 
