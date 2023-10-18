@@ -16,5 +16,5 @@ Bagi yang belum mempunyai iso dan juga virtualbox bisa di dapatkan disini :
 ## Alur installasi
 - Membuat VM ubuntu server dengan virtualbox
 - Installasi Nginx Untuk kebutuhan deploy
-- Installasi docker sebagai
+- Installasi docker
 - Install owncloud dengan docker-compose
