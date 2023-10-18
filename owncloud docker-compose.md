@@ -6,8 +6,10 @@ Owncloud berfungsi untuk membuat sebuah storage agar bisa berbagi antar local da
 ### Membuat Direktori Baru
 cara membuatnya adalah
 <code>mkdir ~/owncloud</code>
+</br>
 cara masuk ke direktori
 <code>cd ~/owncloud</code>
+</br>
 
 ![satu](img/owncloud/1.jpg)
 
@@ -33,6 +35,7 @@ Download owncloud
 <code>wget https://raw.githubusercontent.com/owncloud/docs-server/master/modules/admin_manual/examples/installation/docker/docker-compose.yml</code>
 
 ![tiga](img/owncloud/3.jpg)
+
 ![empat](img/owncloud/4.jpg)
 
 ### Install docker-compose
@@ -70,6 +73,7 @@ Untuk cara menampilkan atau masuk ke owncloud
 <code>https://your_ip:8080</code>
 
 ![sembilan](img/owncloud/9.jpg)
+
 ![sepuluh](img/owncloud/10.gif)
 
 login dengan akun atau config yang di buat di bagian
