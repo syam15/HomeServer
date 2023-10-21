@@ -15,6 +15,13 @@ Bagi yang belum mempunyai iso dan juga virtualbox bisa di dapatkan disini :
 
 ## Alur installasi
 - Membuat VM ubuntu server dengan virtualbox
+<code>https://github.com/syam15/HomeServer/blob/main/installation%20ubuntu%20server%2020.04.md</code>
+
 - Installasi Nginx Untuk kebutuhan deploy
+<code>https://github.com/syam15/HomeServer/blob/main/nginx%20web%20server.md</code>
+
 - Installasi docker
+<code>https://github.com/syam15/HomeServer/blob/main/docker%20installation.md</code>
+
 - Install owncloud dengan docker-compose
+<code>https://github.com/syam15/HomeServer/blob/main/owncloud%20docker-compose.md</code>
