@@ -74,7 +74,7 @@ Untuk cara menampilkan atau masuk ke owncloud
 
 ![sembilan](img/owncloud/9.jpg)
 
-![sepuluh](img/owncloud/10.gif)
+![sepuluh](img/owncloud/10.mp4)
 
 login dengan akun atau config yang di buat di bagian
 <code>nano .env</code>
