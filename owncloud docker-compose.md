@@ -45,23 +45,23 @@ install docker-compose menggunakan perintah
 
 ![lima](img/owncloud/5.jpg)
 
-### 
-
+### Menjalankan/Mengaktifkan layanan
+perintah untuk menjalankan sebuah layanan
 
 <code>docker-compose up -d</code>
 
 ![enam](img/owncloud/6.jpg)
 
 
-### 
-
+### Menjalankan layanan mode detached
+Membangun ulang wadah sesuai definisi berkas Docker Compose dan menjalankan layanan-layanan tersebut dalam mode detached (latar belakang)
 
 <code>docker-compose up --detach --build</code>
 
 ![tujuh](img/owncloud/7.jpg)
 
-### 
-
+### Menampilkan status
+menampilkan status dari semua wadah yang terkait dengan layanan yang didefinisikan dalam berkas Docker Compose
 
 <code>docker-compose ps</code>
 
