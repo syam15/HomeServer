@@ -24,7 +24,7 @@ Untuk akses ke sebuah webnya bisa menggunakan
 
 
 ### Install MySQL
-Serice MySQL berfungsi sebagai sebuah penyedian database pada sebuah server, tata cara installasinya adalah menggunakan perintah
+Service MySQL berfungsi sebagai sebuah penyedian database pada sebuah server, tata cara installasinya adalah menggunakan perintah
 
 <code>sudo apt install mysql-server</code>
 
