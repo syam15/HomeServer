@@ -73,3 +73,8 @@ Unntuk masuk phpmyadmin denga memasukkan ip ke browser dengan contoh berikut
 <code>http://your_server_ip/phpmyadmin</code>
 
 ![delapan](img/lamp/8.jpg)
+
+
+## Reference
+- https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04
+- https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-20-04
