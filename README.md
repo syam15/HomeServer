@@ -1,8 +1,8 @@
 # Membangun Home Server dengan ubuntu server
 
-![gif1](img/setup/gip2.gif)
+![gif](img/setup/gip2.gif)
 
-![gif2](img/setup/gip1.gif)
+![gif](img/setup/gip1.gif)
 
 ## Apa itu Home Server?
 Home Server ditujukan sebagai solusi untuk rumahan atau kantor dengan banyak komputer PC yang terkoneksi untuk menawarkan fitur file sharing, backup otomatis, dan juga akses secara jarak jauh.
