@@ -53,3 +53,6 @@ Untuk cek version PHP yang di install bisa menggunakan perintah
 <code>php -v</code>
 
 ![lima](img/lamp/6.jpg)
+
+
+## Install phpmyadmin
