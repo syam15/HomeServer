@@ -52,7 +52,24 @@ Untuk cek version PHP yang di install bisa menggunakan perintah
 
 <code>php -v</code>
 
-![lima](img/lamp/6.jpg)
+![enam](img/lamp/6.jpg)
 
 
 ## Install phpmyadmin
+Fungsi phpmyadmin sama seperti mysql bedanya phpmyadmin menggunakan GUI atau tampilan agar memudahkan penggunanya mengontrol database.
+
+Untuk installasi phpmyadmin dapat menggunakan perintah
+
+<code>sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl</code>
+
+![tujuh](img/lamp/7.jpg)
+
+Setelah install phpmyadmin disarankan untuk restart Apache dengan perintah
+
+<code>service apache2 restart</code>
+
+Unntuk masuk phpmyadmin denga memasukkan ip ke browser dengan contoh berikut
+
+<code>http://your_server_ip/phpmyadmin</code>
+
+![delapan](img/lamp/8.jpg)
