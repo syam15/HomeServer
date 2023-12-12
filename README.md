@@ -49,3 +49,7 @@ Membuat web server agar sedikit lebih menarik dan supaya tidak polosan.
 - Disini ditambahkan pula sebuah direktori yang bernama chat-off yang berfungsi sebagai pengantar pesan secara internal pada sebuah server atau disebut juga antar karyawan, dan untuk codingan di directori itu sendiri sudah ada di github <code>https://github.com/syam15/chat-off</code>. Untuk Memasukkannya bisa menggunakan git Clone, tapi sebelum di clone diharapkan untuk menginstall git dengan cara <code>sudo apt install git</code> dan untuk menclone nya dengan cara <code>git clone https://github.com/syam15/chat-off</code>
 
 ![setup](img/setup/2.jpg)
+
+
+### Pesan-Pesan
+Mungkin selanjutnya ada sebuah pengembangan lagi, tapi tergantung mood aja si
