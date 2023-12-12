@@ -15,3 +15,5 @@ sesudah di install cek Apache menggunakan perintah
 <code>service apache2 start</code>
 
 <code>service apache2 status</code>
+
+![dua](img/lamp/2.jpg)
