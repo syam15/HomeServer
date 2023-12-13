@@ -3,7 +3,7 @@
 <div align="center">
   <img src="img/setup/gip2.gif">
 </div>
-
+<code></code>
 <div align="center">
   <img src="img/setup/gip1.gif">
 </div>
